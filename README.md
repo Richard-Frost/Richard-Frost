@@ -16,3 +16,4 @@
 - 🌱 I’m currently learning **Python,Tailwind CSS**
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard-frost&show_icons=true&locale=en&layout=compact" alt="richard-frost" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-frost&" alt="richard-frost" /></p>
